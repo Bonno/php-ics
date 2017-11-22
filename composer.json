@@ -1,0 +1,7 @@
+{
+    "name": "tinuviel/php-ics",
+    "description": "Generate a iCalendar (.ics) file in PHP.",
+    "require": {
+        "php": "^5.3 || ^7.0"
+    }
+}
