@@ -1,7 +1,12 @@
 {
     "name": "tinuviel/php-ics",
     "description": "Generate a iCalendar (.ics) file in PHP.",
+    "homepage": "https://github.com/Bonno/php-ics",
+    "license": "MIT",
     "require": {
         "php": "^5.3 || ^7.0"
+    },
+    "autoload": {
+        "files": ["ics.php"]
     }
 }
